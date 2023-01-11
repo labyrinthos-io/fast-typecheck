@@ -1,0 +1,26 @@
+{
+  "name": "@labyrinthos/fast-typecheck",
+  "version": "0.1.0",
+  "description": "",
+  "main": "fast.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "aegis tests/**/*.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labyrinthos-io/fast-typecheck.git"
+  },
+  "author": "Axel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labyrinthos-io/fast-typecheck/issues"
+  },
+  "homepage": "https://github.com/labyrinthos-io/fast-typecheck#readme",
+  "devDependencies": {
+    "@axel669/aegis": "^0.2.5"
+  },
+  "files": [
+    "fast.mjs"
+  ]
+}
